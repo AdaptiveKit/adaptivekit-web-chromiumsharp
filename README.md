@@ -8,13 +8,13 @@ Please refer to [ChromiumSharp](http://adaptivekit.github.com/adaptivekit-web-ch
 
 #### Windows 7
 
-* Build of 21.1163.695 completed.
+* Build of 21.1163.695 completed 20/06/2012.
 * Testing underway.
 * Release pending.
 
 #### Mac OSX Lion 
 
-* Build of 21.1163.695 completed.
+* Build of 21.1163.695 completed 20/06/2012.
 * Testing underway.
 * Release pending.
 
