@@ -28,5 +28,5 @@ Please refer to [ChromiumSharp](http://adaptivekit.github.com/adaptivekit-web-ch
 
 #### ChromeSharp 0.9
 
-[Chromium] version is 21.1163 revision 140240.
-[ChromeEmbedded] version 3 revision 695.
+[Chromium](http://www.chromium.org/Home) version is 21.1163 revision 140240.
+[ChromeEmbedded](http://code.google.com/p/chromiumembedded/) version 3 revision 695.
